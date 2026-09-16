@@ -1,0 +1,15 @@
+{
+	"name": "nirmal-df-spotify-project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "66d10865-69f5-4923-8c7e-e8747ca78a36",
+		"tenantId": "ba3beb3a-8276-4065-8ff0-46395d94b8cd"
+	}
+}
