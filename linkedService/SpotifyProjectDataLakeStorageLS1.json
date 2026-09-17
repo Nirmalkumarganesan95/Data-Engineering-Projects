@@ -1,0 +1,12 @@
+{
+	"name": "SpotifyProjectDataLakeStorageLS1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://nkspotifyprojectstorage.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEFCREM5MTk5LUYxNDEtNEE4Mi05ODNBLUM1MzZBNTEwN0Q3N180Njc0YjYyZC1kMjA0LTRlYmUtYjIzYS04YjRiZTUxNGJlODUiDQp9"
+		}
+	}
+}
